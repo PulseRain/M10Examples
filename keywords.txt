@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For M10ADC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADC_STRUCT	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+analogRead	KEYWORD2
+
+#######################################
+# Instances (KEYWORD3)
+#######################################
+
+ADC	KEYWORD3
+#######################################
+# Constants (LITERAL1)
+#######################################
+ADC_DATA_READY_FLAG	LITERAL1
+ADC_ENABLE_BIT	LITERAL1
+ADC_CHANNEL_INDEX_SHIFT	LITERAL1
+
+ADC_TEMP_SENSOR_CHANNEL	LITERAL1
+ADC_RECALIBRATION_CHANNEL	LITERAL1
