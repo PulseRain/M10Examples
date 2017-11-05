@@ -37,6 +37,7 @@
 void setup() {
   // initialize serial communication at 115200bps
   Serial.begin(115200);
+  ADC.begin();
 }
 
 // the loop routine runs over and over again forever:
